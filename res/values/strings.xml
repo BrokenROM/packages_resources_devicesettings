@@ -26,7 +26,8 @@
     <string name="device_settings_app_name">Advanced settings</string>
 
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">Gestures</string>
+    <string name="screen_gestures_panel_title">Broken gestures</string>
+    <string name="screen_gestures_panel_summary">Device specific gestures</string>
 
     <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extras</string>
@@ -62,8 +63,8 @@
     <string name="user_aware_display_summary">Keep the screen on while a user is in front of the display</string>
 
     <!-- Ambient Display -->
-    <string name="ambient_display_title">Ambient display</string>
-    <string name="ambient_display_enable_title">Ambient display</string>
+    <string name="ambient_display_title">Doze</string>
+    <string name="ambient_display_enable_title">Doze</string>
     <string name="ambient_display_enable_summary">Wake screen when you receive notifications</string>
     <string name="ambient_display_summary">Wake screen when you receive notifications</string>
     <string name="ambient_display_summary_on">Screen will wake when you receive notifications</string>
@@ -77,20 +78,20 @@
 
     <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
+    <string name="hand_wave_gesture_summary">Pulse on hand wave</string>
 
     <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Pick-up</string>
-    <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
+    <string name="pick_up_gesture_summary">Pulse on pick-up</string>
 
     <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+    <string name="pocket_gesture_summary">Pulse on removal from pocket</string>
 
     <!-- Proximity wake -->
     <string name="proximity_wake_title">Proximity wake</string>
     <string name="proximity_wake_enable_title">Proximity wake</string>
-    <string name="proximity_wake_enable_summary">Wake device on hand wave</string>
+    <string name="proximity_wake_enable_summary">Pulse on hand wave</string>
 
     <!-- Device actions -->
     <string name="actions_title">Actions</string>
@@ -121,7 +122,7 @@
     <!-- Action toggles -->
     <string name="action_none">Disable</string>
     <string name="action_launch_camera">Launch camera</string>
-    <string name="action_torch">Toggle torch</string>
+    <string name="action_torch">Light torch</string>
 
     <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Haptic feedback intensity</string>
